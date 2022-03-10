@@ -1,0 +1,164 @@
+item {
+  id: 1
+  name: '2h'
+}
+
+item {
+  id: 2
+  name: 'Ad'
+}
+
+item {
+  id: 3
+  name: 'Kd'
+}
+
+item {
+  id: 4
+  name: 'Qd'
+}
+
+item {
+  id: 5
+  name: 'Jd'
+}
+
+item {
+  id: 6
+  name: '10d'
+}
+item {
+  id: 7
+  name: '9d'
+}
+item {
+  id: 8
+  name: '8d'
+}
+item {
+  id: 9
+  name: '7d'
+}
+item {
+  id: 10
+  name: '6d'
+}
+item {
+  id: 11
+  name: '5d'
+}
+item {
+  id: 12
+  name: '4d'
+}
+item {
+  id: 13
+  name: '3d'
+}
+item {
+  id: 14
+  name: '2d'
+}
+item {
+  id: 15
+  name: 'Ac'
+}
+item {
+  id: 16
+  name: 'Kc'
+}
+item {
+  id: 17
+  name: 'Qc'
+}
+item {
+  id: 18
+  name: 'Jc'
+}
+item {
+  id: 19
+  name: '10c'
+}
+item {
+  id: 20
+  name: '9c'
+}
+item {
+  id: 21
+  name: '8c'
+}
+item {
+  id: 22
+  name: '7c'
+}
+item {
+  id: 23
+  name: '6c'
+}
+item {
+  id: 24
+  name: '5c'
+}item {
+  id: 25
+  name: '4c'
+}
+item {
+  id: 26
+  name: '3c'
+}
+item {
+  id: 27
+  name: '2c'
+}
+item {
+  id: 28
+  name: 'As'
+}
+item {
+  id: 29
+  name: 'Ks'
+}
+item {
+  id: 30
+  name: 'Qs'
+}
+item {
+  id: 31
+  name: 'Js'
+}
+item {
+  id: 32
+  name: '10s'
+}
+item {
+  id: 33
+  name: '9s'
+}
+item {
+  id: 34
+  name: '8s'
+}
+item {
+  id: 35
+  name: '7s'
+}
+item {
+  id: 36
+  name: '6s'
+}
+item {
+  id: 37
+  name: '5s'
+}
+item {
+  id: 38
+  name: '4s'
+}
+item {
+  id: 39
+  name: '3s'
+}
+item {
+  id: 40
+  name: '2s'
+}
